@@ -1,0 +1,15 @@
+.intro__text {
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26.08px;
+    font-style: normal;
+    margin: 40px 0 33px;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+}

@@ -1,0 +1,24 @@
+    .cover__subtitle {
+        font-family: 'Inter', Arial, sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        color: #fff;
+        max-width: 360px;
+        margin: 32px auto 0;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        text-rendering: optimizeLegibility;
+    }
+    
+    @media screen and (max-width: 767px) {
+        .cover__subtitle {
+            margin: 16px 16px 0 16px;
+            font-size: 14px;
+            line-height: 16px;
+        }
+    }

@@ -1,0 +1,25 @@
+.intro__title {
+    max-width: 690px;
+    max-height: 58px;
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 58px;
+    text-align: center;
+    font-style: normal;
+    margin: 0;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+}
+
+@media screen and (max-width: 767px) {
+    .intro__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

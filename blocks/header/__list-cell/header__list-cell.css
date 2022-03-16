@@ -1,0 +1,8 @@
+.header__list-cell {
+    margin: 0 18px 0 0;
+    align-items: flex-end;
+}
+
+.header__list-cell:last-child {
+    margin: 0;
+}
